@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+}
+h1 {
+    color: red;
+    background-color: black;
+}
+.forget{
+    color: rgb(0, 0, 0);
+    background-color: rgb(245, 11, 11);
+}
+.new{
+    color: rgb(0, 255, 85);
+    background-color: rgb(68, 0, 255);
+}
+.login{
+    color: hsl(hue, saturation, lightness);
+    background-color: yellow;
+}
+.username{
+    color: green;
+}
+.pwd{
+    color: cyan;
+}
+.please{
+    color: rgb(0, 0, 0);
+}
+.reset{
+    background-color: red;
+}
+.search{
+    background-color: green;
+}
+.signup{
+    color: white;
+    background-color: black;
+}
+.already{
+    color: white;
+    background-color: black;
+}
